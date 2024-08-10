@@ -1,0 +1,7 @@
+Middleware
+API endpoints, controllers & Routers
+React Redux and RTK Query
+Authentication with JWT Access, Refresh Tokens, Cookies
+Login Authentication
+JWT Authentication | Persist Login State on Refresh
+User Role-Based Access Control & Permissions
